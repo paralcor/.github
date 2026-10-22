@@ -20,6 +20,7 @@
 | 产品 | 简介 | 作者 |
 | --- | --- | --- |
 | [流萤 StreamFirefly](https://github.com/rumoii/streamfirefly) | 网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手 | [@rumoii](https://github.com/rumoii) |
+| [片羽 Pinfeather](https://github.com/paralcor/pinfeather) | 新一代剪贴板工具，正在规划中 | [@rumoii](https://github.com/rumoii)、[@GmdsSeikai](https://github.com/GmdsSeikai) |
 
 ---
 
@@ -36,3 +37,4 @@ For a long time, people looked up at the stars with no way of knowing how far aw
 | Product | Description | Author |
 | --- | --- | --- |
 | [StreamFirefly](https://github.com/rumoii/streamfirefly) | Web media detection and download tool, with a browser extension and a Windows native helper | [@rumoii](https://github.com/rumoii) |
+| [Pinfeather](https://github.com/paralcor/pinfeather) | A next-generation clipboard tool, in planning | [@rumoii](https://github.com/rumoii), [@GmdsSeikai](https://github.com/GmdsSeikai) |
