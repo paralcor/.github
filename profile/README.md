@@ -26,7 +26,7 @@ PARALCOR 是 PARALLAX（视差）与 ALCOR（辅星）合成的词。
 
 | 产品 | 简介 |
 | --- | --- |
-| [流萤 StreamFirefly](https://github.com/paralcor/streamfirefly) | 网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手 |
+| [流萤 StreamFirefly](https://github.com/rumoii/streamfirefly) | 网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手 |
 
 ---
 
@@ -41,6 +41,6 @@ In the mark, the ring is the field of view, the solid disc is Mizar, and the sma
 
 | Product | Description |
 | --- | --- |
-| [StreamFirefly](https://github.com/paralcor/streamfirefly) | Web media detection and download tool, with a browser extension and a Windows native helper |
+| [StreamFirefly](https://github.com/rumoii/streamfirefly) | Web media detection and download tool, with a browser extension and a Windows native helper |
 
 </details>
