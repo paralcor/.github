@@ -21,6 +21,7 @@
 | --- | --- | --- |
 | [流萤 StreamFirefly](https://github.com/rumoii/streamfirefly) | 网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手 | [@rumoii](https://github.com/rumoii) |
 | [片羽 Pinfeather](https://github.com/paralcor/pinfeather) | 新一代剪贴板工具，正在规划中 | [@rumoii](https://github.com/rumoii)、[@GmdsSeikai](https://github.com/GmdsSeikai) |
+| [DSH 破限 · dsh-breaklimit](https://github.com/rumoii/dsh-breaklimit) | 为 DeepSeek Harness 管理宿主补丁、提示词和规则集的开源插件，目前为内测版本 | [@rumoii](https://github.com/rumoii) |
 
 ---
 
@@ -38,3 +39,4 @@ For a long time, people looked up at the stars with no way of knowing how far aw
 | --- | --- | --- |
 | [StreamFirefly](https://github.com/rumoii/streamfirefly) | Web media detection and download tool, with a browser extension and a Windows native helper | [@rumoii](https://github.com/rumoii) |
 | [Pinfeather](https://github.com/paralcor/pinfeather) | A next-generation clipboard tool, in planning | [@rumoii](https://github.com/rumoii), [@GmdsSeikai](https://github.com/GmdsSeikai) |
+| [dsh-breaklimit](https://github.com/rumoii/dsh-breaklimit) | An open-source plugin for managing host patches, prompts, and rule sets in DeepSeek Harness, currently in beta | [@rumoii](https://github.com/rumoii) |
